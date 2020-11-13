@@ -15,4 +15,12 @@ STEP/*/*.sldprt
 *.Zip
 Celestial Altium Library*.DbLib
 *_loc
-_Previews
+Project Logs for */*
+Project Outputs for */*
+*.PrjPCBStructure
+*.htm
+*.LOG
+*Preview
+*viewstate
+*.Dat
+*.OutJob
